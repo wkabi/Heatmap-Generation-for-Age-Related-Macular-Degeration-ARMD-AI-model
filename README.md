@@ -1,5 +1,7 @@
 # Heatmap-Generation-for-Age-Related-Macular-Degeration-ARMD-AI-model
-The ARMD AI model was trained, validated and tested for binary classification using retinal fundus images by employing deep learning (DL) methodology. This repository can be adopted to generate heatmaps for any AI model.
+The ARMD AI model was trained, validated and tested for binary classification using retinal fundus images by employing deep learning (DL) methodology. 
+
+This repository can be adopted to generate heatmaps for any AI model.
 
 Notes: 
 - This repository is not for commercial use/purpose. 
