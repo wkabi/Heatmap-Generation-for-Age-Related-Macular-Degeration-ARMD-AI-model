@@ -20,3 +20,4 @@ Notes:
 13. All that glitters is not gold: are current retina foundation models able to efficiently detect hypertensive retinopathy?
 14. AI-assisted automated screening of retinal anomalies in OCT Images: A deep learning approach
 15. Parameter-efficient fine-tuning of ophthalmology foundation models for robust hypertensive retinopathy detection and triage
+- Finally, don't forget to hit 'star' for this repository :)
