@@ -3,7 +3,7 @@ The ARMD AI model was trained, validated and tested for binary classification us
 
 This repository can be adopted to generate heatmaps for any AI model.
 
-Few Examples of generated heatmaps are as follow.
+Few example of generated heatmaps are as follow.
 
 ![image](https://github.com/wkabi/Heatmap-Generation-for-Age-Related-Macular-Degeration-ARMD-AI-model/blob/main/003e76f7-da23-5760-24a4-30c7887768ea.HM_rz.png)
 ![image](https://github.com/wkabi/Heatmap-Generation-for-Age-Related-Macular-Degeration-ARMD-AI-model/blob/main/003e76f7-da23-5760-24a4-30c7887768ea.RawHM.png)
