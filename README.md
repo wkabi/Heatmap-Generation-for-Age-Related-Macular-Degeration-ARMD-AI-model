@@ -7,6 +7,8 @@ Few example of generated heatmaps are as follow.
 
 ![image](https://github.com/wkabi/Heatmap-Generation-for-Age-Related-Macular-Degeration-ARMD-AI-model/blob/main/003e76f7-da23-5760-24a4-30c7887768ea.HM_rz.png)
 ![image](https://github.com/wkabi/Heatmap-Generation-for-Age-Related-Macular-Degeration-ARMD-AI-model/blob/main/003e76f7-da23-5760-24a4-30c7887768ea.RawHM.png)
+![image](https://github.com/wkabi/Heatmap-Generation-for-Age-Related-Macular-Degeration-ARMD-AI-model/blob/main/000873220220223020001oct_c_xh1.bmp)
+![image](https://github.com/wkabi/Heatmap-Generation-for-Age-Related-Macular-Degeration-ARMD-AI-model/blob/main/000873220220223020001oct_c_xh1.HM_rz.png)
 
 Notes: 
 - This repository is not for commercial use/purpose. 
