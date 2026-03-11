@@ -24,3 +24,5 @@ Notes:
 14. AI-assisted automated screening of retinal anomalies in OCT Images: A deep learning approach
 15. Parameter-efficient fine-tuning of ophthalmology foundation models for robust hypertensive retinopathy detection and triage
 - Finally, don't forget to hit the 'star' button for this repository :)
+Example-
+![image](https://github.com/wkabi/Heatmap-Generation-for-Age-Related-Macular-Degeration-ARMD-AI-model/blob/main/003e76f7-da23-5760-24a4-30c7887768ea.HM_rz.png)
